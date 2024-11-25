@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Redux-RTK-Practice/static/css/main.feb8ad4f.css",
+    "main.js": "/Redux-RTK-Practice/static/js/main.bccb8a6c.js",
+    "index.html": "/Redux-RTK-Practice/index.html",
+    "main.feb8ad4f.css.map": "/Redux-RTK-Practice/static/css/main.feb8ad4f.css.map",
+    "main.bccb8a6c.js.map": "/Redux-RTK-Practice/static/js/main.bccb8a6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feb8ad4f.css",
+    "static/js/main.bccb8a6c.js"
+  ]
+}
